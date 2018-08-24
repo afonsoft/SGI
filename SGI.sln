@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGI.Api", "SGI.Api\SGI.Api.csproj", "{362F0DC6-B14A-4D78-BFB2-AB612F5CBEAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGI.DataBase", "SGI.DataBase\SGI.DataBase.csproj", "{0394AEBF-CEF6-4416-A184-7EF528D02698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGI.WpfApp", "SGI.WpfApp\SGI.WpfApp.csproj", "{E88508E7-929A-44BF-89EB-9F7EA8ADD431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362F0DC6-B14A-4D78-BFB2-AB612F5CBEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362F0DC6-B14A-4D78-BFB2-AB612F5CBEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362F0DC6-B14A-4D78-BFB2-AB612F5CBEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362F0DC6-B14A-4D78-BFB2-AB612F5CBEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0394AEBF-CEF6-4416-A184-7EF528D02698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0394AEBF-CEF6-4416-A184-7EF528D02698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0394AEBF-CEF6-4416-A184-7EF528D02698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0394AEBF-CEF6-4416-A184-7EF528D02698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88508E7-929A-44BF-89EB-9F7EA8ADD431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88508E7-929A-44BF-89EB-9F7EA8ADD431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88508E7-929A-44BF-89EB-9F7EA8ADD431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88508E7-929A-44BF-89EB-9F7EA8ADD431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D0791E8-10A7-4441-B24F-FD945902E16B}
+	EndGlobalSection
+EndGlobal
